@@ -1,6 +1,7 @@
 # Welcome to the Reference a CodeQL query exercise!
 
 This exercise checks your knowledge on referencing a query in a CodeQL workflow. It is automatically graded via a workflow once you have completed the instructions.
+TEST!!!
 
 ## About this exercise
 
